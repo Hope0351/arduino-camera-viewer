@@ -1,6 +1,3 @@
-Here’s a **hyper-professional**, visually stunning README that leverages GitHub’s native capabilities without external images—using advanced markdown, animations, and interactive elements:
-
-```markdown
 # <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95bd81-c8a5-4f3d-a60f-5a5a6c541fad.png">
   <img alt="Arduino OV7670 Camera Viewer" src="https://user-images.githubusercontent.com/25423296/163456779-a4ea8c23-2a2b-4b3d-8b6e-99e41047ace8.png" width="100%">
