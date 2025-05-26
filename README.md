@@ -1,6 +1,3 @@
-Here's a visually rich README.md using real sample photos from the internet (with proper attribution):
-
-```markdown
 # 📸 Arduino OV7670 Camera Viewer
 
 <div align="center">
